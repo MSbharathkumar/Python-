@@ -1,0 +1,25 @@
+# Addition
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+c = float(2.5)
+result = a + b + c
+
+print("Addition -", result)
+
+# Division
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+result = a / b
+
+print("Division -", result)
+
+#Sub
+
+a = int(input('Enter first number: '))
+b = int(input('Enter second number: '))
+c = 5
+result = - a - b - c
+
+print('Sub - ', result)
